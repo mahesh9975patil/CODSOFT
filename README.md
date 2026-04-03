@@ -7,3 +7,13 @@ Add new tasks
 Remove selected task
 Delete all tasks (with confirmation)
 Simple and clean GUI
+-----------------------------------------------------------------------------------------------------------------------------
+Simple Calculator (Python)
+
+A basic command-line calculator built using Python. It allows users to perform simple arithmetic operations like addition, subtraction, multiplication, and division.
+
+Features
+Addition
+Subtraction
+Multiplication
+Division (with zero check)
