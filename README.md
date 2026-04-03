@@ -27,3 +27,14 @@ Features
 Generate passwords of custom length
 Choose between letters, numbers, and symbols
 Simple and easy to use
+
+
+Rock Paper Scissors Game (Python)
+
+A simple command-line Rock Paper Scissors game built using Python. Play against the computer and track your score.
+
+Features
+Play Rock, Paper, Scissors against computer
+Random computer choices
+Score tracking (wins, losses, ties)
+Option to play multiple rounds
