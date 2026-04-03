@@ -17,3 +17,13 @@ Addition
 Subtraction
 Multiplication
 Division (with zero check)
+
+
+Password Generator (Python)
+
+A simple command-line Password Generator built using Python. It creates secure passwords based on user preferences.
+
+Features
+Generate passwords of custom length
+Choose between letters, numbers, and symbols
+Simple and easy to use
